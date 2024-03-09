@@ -1,1 +1,1 @@
-!(./GaleriaExibições/InstanteInicial.png)[algum texto alternativo]
+/
