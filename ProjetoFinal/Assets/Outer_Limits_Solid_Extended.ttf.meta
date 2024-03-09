@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 46f686266101f0b4690a7fd6f4cece34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Outer Limits Solid Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0da68a50a3d01a0468c46e261f056e86, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
