@@ -1,1 +1,1 @@
-!(/caminho/da/img)[algum texto alternativo]
+!(GaleriaExibições/DemoCombate.png)[algum texto alternativo]
