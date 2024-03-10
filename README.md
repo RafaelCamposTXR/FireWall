@@ -1,1 +1,1 @@
-!(GaleriaExibições/DemoCombate.png)[algum texto alternativo]
+![Alt text](GaleriaExibições/DemoCombate.png.jpg?raw=true "Title")
